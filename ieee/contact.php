@@ -1,5 +1,4 @@
 <?php
-
 // Define your database connection parameters
 $servername = "127.0.0.1:3307";
 $username = "root";
